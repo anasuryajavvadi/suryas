@@ -12,6 +12,7 @@ long longMax = 92233L;
 long longMin = -92233L;
 byte byteMax = 127;
 byte byteMin = -128;
+System.out.println("int"+max);
 	}
 
 }
